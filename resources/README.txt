@@ -1,1 +1,1 @@
-The apk should be on this file
+The apk should be on this folder
